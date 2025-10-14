@@ -1,0 +1,79 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760425080133,2569,HTTP Request,508,Loop Detected,Thread Group - User 1-2,text,false,,902,240,27,27,https://freshpack.com.bd/,1846,0,286
+1760425080133,1846,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-2,text,true,,375,122,27,27,http://www.freshpack.com.bd/,1846,0,286
+1760425081980,722,HTTP Request-1,508,Loop Detected,Thread Group - User 1-2,text,false,,527,118,27,27,https://freshpack.com.bd/,722,0,444
+1760425082329,493,HTTP Request,508,Loop Detected,Thread Group - User 1-24,text,false,,527,122,27,27,http://www.freshpack.com.bd/,493,0,190
+1760425082428,484,HTTP Request,508,Loop Detected,Thread Group - User 1-25,text,false,,527,122,27,27,http://www.freshpack.com.bd/,484,0,192
+1760425082628,459,HTTP Request,508,Loop Detected,Thread Group - User 1-27,text,false,,527,122,27,27,http://www.freshpack.com.bd/,459,0,204
+1760425082730,429,HTTP Request,508,Loop Detected,Thread Group - User 1-28,text,false,,527,122,26,26,http://www.freshpack.com.bd/,428,0,193
+1760425082828,434,HTTP Request,508,Loop Detected,Thread Group - User 1-29,text,false,,527,122,25,25,http://www.freshpack.com.bd/,434,0,201
+1760425080232,3114,HTTP Request,508,Loop Detected,Thread Group - User 1-3,text,false,,902,240,24,24,https://freshpack.com.bd/,2470,0,202
+1760425080232,2470,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-3,text,true,,375,122,24,24,http://www.freshpack.com.bd/,2470,0,202
+1760425082703,643,HTTP Request-1,508,Loop Detected,Thread Group - User 1-3,text,false,,527,118,24,24,https://freshpack.com.bd/,643,0,400
+1760425080331,3019,HTTP Request,508,Loop Detected,Thread Group - User 1-4,text,false,,902,240,24,24,https://freshpack.com.bd/,2374,0,195
+1760425080331,2374,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-4,text,true,,375,122,24,24,http://www.freshpack.com.bd/,2374,0,195
+1760425082706,644,HTTP Request-1,508,Loop Detected,Thread Group - User 1-4,text,false,,527,118,24,24,https://freshpack.com.bd/,644,0,399
+1760425082924,432,HTTP Request,508,Loop Detected,Thread Group - User 1-30,text,false,,527,122,22,22,http://www.freshpack.com.bd/,432,0,192
+1760425081328,4987,HTTP Request,508,Loop Detected,Thread Group - User 1-14,text,false,,902,240,21,21,https://freshpack.com.bd/,4363,0,197
+1760425081328,4363,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-14,text,true,,375,122,21,21,http://www.freshpack.com.bd/,4363,0,197
+1760425085691,624,HTTP Request-1,508,Loop Detected,Thread Group - User 1-14,text,false,,527,118,21,21,https://freshpack.com.bd/,624,0,393
+1760425080026,9668,HTTP Request,200,OK,Thread Group - User 1-1,text,true,,132737,240,20,20,https://freshpack.com.bd/,1961,0,396
+1760425080026,1961,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-1,text,true,,375,122,20,20,http://www.freshpack.com.bd/,1961,0,396
+1760425081988,7706,HTTP Request-1,200,OK,Thread Group - User 1-1,text,true,,132362,118,20,20,https://freshpack.com.bd/,7096,0,437
+1760425080431,9929,HTTP Request,200,OK,Thread Group - User 1-5,text,true,,132737,240,19,19,https://freshpack.com.bd/,3208,0,207
+1760425080431,3208,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-5,text,true,,375,122,19,19,http://www.freshpack.com.bd/,3208,0,207
+1760425083640,6720,HTTP Request-1,200,OK,Thread Group - User 1-5,text,true,,132362,118,19,19,https://freshpack.com.bd/,6149,0,392
+1760425080530,10032,HTTP Request,200,OK,Thread Group - User 1-6,text,true,,132737,240,18,18,https://freshpack.com.bd/,3158,0,202
+1760425080530,3158,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-6,text,true,,375,122,18,18,http://www.freshpack.com.bd/,3158,0,202
+1760425083689,6873,HTTP Request-1,200,OK,Thread Group - User 1-6,text,true,,132362,118,18,18,https://freshpack.com.bd/,6306,0,390
+1760425080632,10231,HTTP Request,200,OK,Thread Group - User 1-7,text,true,,132737,240,17,17,https://freshpack.com.bd/,3342,0,191
+1760425080632,3342,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-7,text,true,,375,122,17,17,http://www.freshpack.com.bd/,3342,0,191
+1760425083975,6888,HTTP Request-1,200,OK,Thread Group - User 1-7,text,true,,132362,118,17,17,https://freshpack.com.bd/,6316,0,398
+1760425080732,10747,HTTP Request,200,OK,Thread Group - User 1-8,text,true,,132737,240,16,16,https://freshpack.com.bd/,3468,0,192
+1760425080732,3468,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-8,text,true,,375,122,16,16,http://www.freshpack.com.bd/,3468,0,192
+1760425084201,7278,HTTP Request-1,200,OK,Thread Group - User 1-8,text,true,,132362,118,16,16,https://freshpack.com.bd/,6689,0,404
+1760425080839,10668,HTTP Request,200,OK,Thread Group - User 1-9,text,true,,132737,240,15,15,https://freshpack.com.bd/,3444,0,197
+1760425080839,3444,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-9,text,true,,375,122,15,15,http://www.freshpack.com.bd/,3444,0,197
+1760425084284,7223,HTTP Request-1,200,OK,Thread Group - User 1-9,text,true,,132362,118,15,15,https://freshpack.com.bd/,6613,0,415
+1760425080931,11225,HTTP Request,200,OK,Thread Group - User 1-10,text,true,,132737,240,14,14,https://freshpack.com.bd/,3643,0,190
+1760425080931,3643,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-10,text,true,,375,122,14,14,http://www.freshpack.com.bd/,3643,0,190
+1760425084575,7581,HTTP Request-1,200,OK,Thread Group - User 1-10,text,true,,132362,118,14,14,https://freshpack.com.bd/,7001,0,392
+1760425081031,11443,HTTP Request,200,OK,Thread Group - User 1-11,text,true,,132737,240,13,13,https://freshpack.com.bd/,3958,0,191
+1760425081031,3958,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-11,text,true,,375,122,13,13,http://www.freshpack.com.bd/,3958,0,191
+1760425084990,7484,HTTP Request-1,200,OK,Thread Group - User 1-11,text,true,,132362,118,13,13,https://freshpack.com.bd/,6900,0,395
+1760425081127,11530,HTTP Request,200,OK,Thread Group - User 1-12,text,true,,132737,240,12,12,https://freshpack.com.bd/,4177,0,192
+1760425081127,4177,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-12,text,true,,375,122,12,12,http://www.freshpack.com.bd/,4177,0,192
+1760425085304,7353,HTTP Request-1,200,OK,Thread Group - User 1-12,text,true,,132362,118,12,12,https://freshpack.com.bd/,6779,0,386
+1760425081233,12134,HTTP Request,200,OK,Thread Group - User 1-13,text,true,,132737,240,11,11,https://freshpack.com.bd/,4364,0,191
+1760425081233,4364,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-13,text,true,,375,122,11,11,http://www.freshpack.com.bd/,4364,0,191
+1760425085598,7769,HTTP Request-1,200,OK,Thread Group - User 1-13,text,true,,132362,118,11,11,https://freshpack.com.bd/,7188,0,404
+1760425081429,12650,HTTP Request,200,OK,Thread Group - User 1-15,text,true,,132751,240,10,10,https://freshpack.com.bd/,4770,0,193
+1760425081429,4770,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-15,text,true,,375,122,10,10,http://www.freshpack.com.bd/,4770,0,193
+1760425086200,7879,HTTP Request-1,200,OK,Thread Group - User 1-15,text,true,,132376,118,10,10,https://freshpack.com.bd/,7391,0,390
+1760425081531,13178,HTTP Request,200,OK,Thread Group - User 1-16,text,true,,132737,240,9,9,https://freshpack.com.bd/,4855,0,202
+1760425081531,4855,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-16,text,true,,375,122,9,9,http://www.freshpack.com.bd/,4855,0,202
+1760425086387,8322,HTTP Request-1,200,OK,Thread Group - User 1-16,text,true,,132362,118,9,9,https://freshpack.com.bd/,7510,0,415
+1760425081731,13036,HTTP Request,200,OK,Thread Group - User 1-18,text,true,,132737,240,8,8,https://freshpack.com.bd/,5243,0,192
+1760425081731,5243,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-18,text,true,,375,122,8,8,http://www.freshpack.com.bd/,5243,0,192
+1760425086976,7791,HTTP Request-1,200,OK,Thread Group - User 1-18,text,true,,132362,118,8,8,https://freshpack.com.bd/,7210,0,394
+1760425081624,13144,HTTP Request,200,OK,Thread Group - User 1-17,text,true,,132737,240,8,8,https://freshpack.com.bd/,5077,0,189
+1760425081624,5077,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-17,text,true,,375,122,8,8,http://www.freshpack.com.bd/,5077,0,189
+1760425086703,8065,HTTP Request-1,200,OK,Thread Group - User 1-17,text,true,,132362,118,8,8,https://freshpack.com.bd/,7478,0,406
+1760425081838,13557,HTTP Request,200,OK,Thread Group - User 1-19,text,true,,132737,240,6,6,https://freshpack.com.bd/,5151,0,194
+1760425081838,5151,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-19,text,true,,375,122,6,6,http://www.freshpack.com.bd/,5151,0,194
+1760425086991,8404,HTTP Request-1,200,OK,Thread Group - User 1-19,text,true,,132362,118,6,6,https://freshpack.com.bd/,7802,0,422
+1760425081931,14035,HTTP Request,200,OK,Thread Group - User 1-20,text,true,,132737,240,5,5,https://freshpack.com.bd/,5662,0,192
+1760425081931,5662,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-20,text,true,,375,122,5,5,http://www.freshpack.com.bd/,5662,0,192
+1760425087593,8373,HTTP Request-1,200,OK,Thread Group - User 1-20,text,true,,132362,118,5,5,https://freshpack.com.bd/,7797,0,395
+1760425082032,14317,HTTP Request,200,OK,Thread Group - User 1-21,text,true,,132737,240,4,4,https://freshpack.com.bd/,5855,0,191
+1760425082032,5855,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-21,text,true,,375,122,4,4,http://www.freshpack.com.bd/,5855,0,191
+1760425087888,8461,HTTP Request-1,200,OK,Thread Group - User 1-21,text,true,,132362,118,4,4,https://freshpack.com.bd/,7891,0,400
+1760425082228,14336,HTTP Request,200,OK,Thread Group - User 1-23,text,true,,132737,240,3,3,https://freshpack.com.bd/,6256,0,198
+1760425082228,6256,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-23,text,true,,375,122,3,3,http://www.freshpack.com.bd/,6256,0,198
+1760425088485,8079,HTTP Request-1,200,OK,Thread Group - User 1-23,text,true,,132362,118,3,3,https://freshpack.com.bd/,7498,0,405
+1760425082130,14459,HTTP Request,200,OK,Thread Group - User 1-22,text,true,,132737,240,2,2,https://freshpack.com.bd/,6055,0,194
+1760425082130,6055,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-22,text,true,,375,122,2,2,http://www.freshpack.com.bd/,6055,0,194
+1760425088186,8403,HTTP Request-1,200,OK,Thread Group - User 1-22,text,true,,132362,118,2,2,https://freshpack.com.bd/,7807,0,408
+1760425082528,14433,HTTP Request,200,OK,Thread Group - User 1-26,text,true,,132737,240,1,1,https://freshpack.com.bd/,6458,0,200
+1760425082528,6458,HTTP Request-0,301,Moved Permanently,Thread Group - User 1-26,text,true,,375,122,1,1,http://www.freshpack.com.bd/,6458,0,200
+1760425088987,7974,HTTP Request-1,200,OK,Thread Group - User 1-26,text,true,,132362,118,1,1,https://freshpack.com.bd/,7206,0,392
