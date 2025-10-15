@@ -1,0 +1,58 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760540395759,3932,Home Page,200,OK,Thread Group 1-1,text,true,,132737,240,1,1,https://freshpack.com.bd/,1162,0,445
+1760540395759,1162,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,122,1,1,http://www.freshpack.com.bd/,1162,0,445
+1760540396922,2769,Home Page-1,200,OK,Thread Group 1-1,text,true,,132362,118,1,1,https://freshpack.com.bd/,1639,0,823
+1760540399693,2862,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,710,0,0
+1760540399693,710,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,710,0,0
+1760540400403,2152,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,1332,0,0
+1760540402558,2762,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,713,0,0
+1760540402558,713,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,713,0,0
+1760540403271,2049,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,820,0,0
+1760540405322,2865,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,816,0,0
+1760540405322,816,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,816,0,0
+1760540406138,2049,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,820,0,0
+1760540408187,3480,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,818,0,0
+1760540408187,818,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,818,0,0
+1760540409005,2662,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,819,0,0
+1760540411668,3685,Home Page,200,OK,Thread Group 1-1,text,true,,132690,240,1,1,https://freshpack.com.bd/,715,0,0
+1760540411668,715,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,715,0,0
+1760540412383,2970,Home Page-1,200,OK,Thread Group 1-1,text,true,,132342,118,1,1,https://freshpack.com.bd/,924,0,0
+1760540415354,3694,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,717,0,0
+1760540415354,717,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,717,0,0
+1760540416071,2977,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,921,0,0
+1760540419049,3172,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,707,0,0
+1760540419049,707,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,707,0,0
+1760540419756,2465,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,820,0,0
+1760540422222,2866,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,816,0,0
+1760540422222,816,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,816,0,0
+1760540423038,2050,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,826,0,0
+1760540425089,2757,Home Page,200,OK,Thread Group 1-1,text,true,,132683,240,1,1,https://freshpack.com.bd/,710,0,0
+1760540425089,710,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,1,1,http://www.freshpack.com.bd/,710,0,0
+1760540425799,2047,Home Page-1,200,OK,Thread Group 1-1,text,true,,132335,118,1,1,https://freshpack.com.bd/,832,0,0
+1760540427848,2871,About Us Page,200,OK,Thread Group 1-1,text,true,,88248,257,1,1,http://freshpack.com.bd/about-us/,717,0,0
+1760540427848,718,About Us Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,130,1,1,http://www.freshpack.com.bd/about-us,717,0,0
+1760540428567,2152,About Us Page-1,200,OK,Thread Group 1-1,text,true,,87892,127,1,1,http://freshpack.com.bd/about-us/,1328,0,405
+1760540430720,1865,Service Page,200,OK,Thread Group 1-1,text,true,,87890,255,1,1,http://freshpack.com.bd/service/,672,0,0
+1760540430720,672,Service Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/service,672,0,0
+1760540431392,1193,Service Page-1,200,OK,Thread Group 1-1,text,true,,87535,126,1,1,http://freshpack.com.bd/service/,858,0,0
+1760540432586,1944,Portfolio Page,200,OK,Thread Group 1-1,text,true,,73964,259,1,1,http://freshpack.com.bd/portfolio/,789,0,0
+1760540432586,789,Portfolio Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,357,131,1,1,http://www.freshpack.com.bd/portfolio,789,0,0
+1760540433375,1155,Portfolio Page-1,200,OK,Thread Group 1-1,text,true,,73607,128,1,1,http://freshpack.com.bd/portfolio/,821,0,0
+1760540434530,2226,Blog Page,200,OK,Thread Group 1-1,text,true,,80156,259,1,1,http://freshpack.com.bd/blog-grid/,688,0,0
+1760540434530,688,Blog Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,357,131,1,1,http://www.freshpack.com.bd/blog-grid,688,0,0
+1760540435218,1538,Blog Page-1,200,OK,Thread Group 1-1,text,true,,79799,128,1,1,http://freshpack.com.bd/blog-grid/,751,0,0
+1760540436758,2353,Contact Page,200,OK,Thread Group 1-1,text,true,,73124,255,1,1,http://freshpack.com.bd/contact/,817,0,0
+1760540436758,817,Contact Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/contact,817,0,0
+1760540437575,1536,Contact Page-1,200,OK,Thread Group 1-1,text,true,,72769,126,1,1,http://freshpack.com.bd/contact/,772,0,0
+1760540439112,2252,Contact Page,200,OK,Thread Group 1-1,text,true,,73124,255,1,1,http://freshpack.com.bd/contact/,716,0,0
+1760540439112,716,Contact Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/contact,716,0,0
+1760540439828,1536,Contact Page-1,200,OK,Thread Group 1-1,text,true,,72769,126,1,1,http://freshpack.com.bd/contact/,819,0,0
+1760540441366,2353,Contact Page,200,OK,Thread Group 1-1,text,true,,73124,255,1,1,http://freshpack.com.bd/contact/,715,0,0
+1760540441366,715,Contact Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/contact,715,0,0
+1760540442080,1639,Contact Page-1,200,OK,Thread Group 1-1,text,true,,72769,126,1,1,http://freshpack.com.bd/contact/,819,0,0
+1760540443722,2352,Contact Page,200,OK,Thread Group 1-1,text,true,,73124,255,1,1,http://freshpack.com.bd/contact/,713,0,0
+1760540443722,713,Contact Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/contact,713,0,0
+1760540444435,1639,Contact Page-1,200,OK,Thread Group 1-1,text,true,,72769,126,1,1,http://freshpack.com.bd/contact/,820,0,0
+1760540446076,2352,Contact Page,200,OK,Thread Group 1-1,text,true,,73124,255,1,1,http://freshpack.com.bd/contact/,714,0,0
+1760540446076,714,Contact Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,129,1,1,http://www.freshpack.com.bd/contact,714,0,0
+1760540446790,1638,Contact Page-1,200,OK,Thread Group 1-1,text,true,,72769,126,1,1,http://freshpack.com.bd/contact/,820,0,0
