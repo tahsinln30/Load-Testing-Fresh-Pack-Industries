@@ -1,0 +1,149 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760538193389,3667,HTTP Request - 1,200,OK,Thread Group 1-1,text,true,,132737,240,4,4,https://freshpack.com.bd/,1117,0,342
+1760538193389,1117,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,122,4,4,http://www.freshpack.com.bd/,1117,0,342
+1760538194508,2548,HTTP Request - 1-1,200,OK,Thread Group 1-1,text,true,,132362,118,4,4,https://freshpack.com.bd/,1513,0,726
+1760538197057,2883,HTTP Request - 2,200,OK,Thread Group 1-1,text,true,,132683,240,5,5,https://freshpack.com.bd/,855,0,0
+1760538197057,855,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,122,5,5,http://www.freshpack.com.bd/,855,0,0
+1760538197912,2028,HTTP Request - 2-1,200,OK,Thread Group 1-1,text,true,,132335,118,5,5,https://freshpack.com.bd/,896,0,0
+1760538195395,6792,HTTP Request - 1,200,OK,Thread Group 1-2,text,true,,132737,240,5,5,https://freshpack.com.bd/,1056,0,351
+1760538195395,1056,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,122,5,5,http://www.freshpack.com.bd/,1056,0,351
+1760538196451,5736,HTTP Request - 1-1,200,OK,Thread Group 1-2,text,true,,132362,118,5,5,https://freshpack.com.bd/,1956,0,675
+1760538199395,4134,HTTP Request - 1,200,OK,Thread Group 1-4,text,true,,132737,240,6,6,https://freshpack.com.bd/,1155,0,436
+1760538199395,1155,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,122,6,6,http://www.freshpack.com.bd/,1155,0,436
+1760538200551,2978,HTTP Request - 1-1,200,OK,Thread Group 1-4,text,true,,132362,118,6,6,https://freshpack.com.bd/,1794,0,806
+1760538197406,8515,HTTP Request - 1,200,OK,Thread Group 1-3,text,true,,132737,240,7,7,https://freshpack.com.bd/,1047,0,345
+1760538197406,1047,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1047,0,345
+1760538198455,7466,HTTP Request - 1-1,200,OK,Thread Group 1-3,text,true,,132362,118,7,7,https://freshpack.com.bd/,4380,0,3020
+1760538201384,5017,HTTP Request - 1,200,OK,Thread Group 1-5,text,true,,132737,240,8,8,https://freshpack.com.bd/,2145,0,1345
+1760538201384,2145,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,122,8,8,http://www.freshpack.com.bd/,2145,0,1345
+1760538203528,2873,HTTP Request - 1-1,200,OK,Thread Group 1-5,text,true,,132362,118,8,8,https://freshpack.com.bd/,1837,0,725
+1760538203391,4280,HTTP Request - 1,200,OK,Thread Group 1-6,text,true,,132737,240,8,8,https://freshpack.com.bd/,1149,0,354
+1760538203391,1149,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1149,0,354
+1760538204541,3130,HTTP Request - 1-1,200,OK,Thread Group 1-6,text,true,,132362,118,8,8,https://freshpack.com.bd/,1547,0,833
+1760538206403,2557,HTTP Request - 2,200,OK,Thread Group 1-5,text,true,,132683,240,9,9,https://freshpack.com.bd/,811,0,0
+1760538206403,811,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,122,9,9,http://www.freshpack.com.bd/,811,0,0
+1760538207214,1746,HTTP Request - 2-1,200,OK,Thread Group 1-5,text,true,,132335,118,9,9,https://freshpack.com.bd/,1090,0,0
+1760538205921,3184,HTTP Request - 2,200,OK,Thread Group 1-3,text,true,,132710,240,8,8,https://freshpack.com.bd/,1142,0,360
+1760538205921,1142,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1142,0,360
+1760538207063,2042,HTTP Request - 2-1,200,OK,Thread Group 1-3,text,true,,132335,118,8,8,https://freshpack.com.bd/,970,0,0
+1760538203529,6132,HTTP Request - 2,200,OK,Thread Group 1-4,text,true,,132683,240,7,7,https://freshpack.com.bd/,704,0,0
+1760538203529,704,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,122,7,7,http://www.freshpack.com.bd/,704,0,0
+1760538204233,5428,HTTP Request - 2-1,200,OK,Thread Group 1-4,text,true,,132335,118,7,7,https://freshpack.com.bd/,1132,0,0
+1760538207672,3116,HTTP Request - 2,200,OK,Thread Group 1-6,text,true,,132683,240,7,7,https://freshpack.com.bd/,1171,0,0
+1760538207672,1171,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-6,text,true,,348,122,7,7,http://www.freshpack.com.bd/,1171,0,0
+1760538208843,1945,HTTP Request - 2-1,200,OK,Thread Group 1-6,text,true,,132335,118,7,7,https://freshpack.com.bd/,716,0,0
+1760538205387,7488,HTTP Request - 1,200,OK,Thread Group 1-7,text,true,,132737,240,7,7,https://freshpack.com.bd/,3658,0,2408
+1760538205387,3658,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,122,7,7,http://www.freshpack.com.bd/,3658,0,2408
+1760538209046,3829,HTTP Request - 1-1,200,OK,Thread Group 1-7,text,true,,132362,118,7,7,https://freshpack.com.bd/,2585,0,1847
+1760538209392,4580,HTTP Request - 1,200,OK,Thread Group 1-9,text,true,,132737,240,7,7,https://freshpack.com.bd/,1012,0,371
+1760538209392,1012,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1012,0,371
+1760538210405,3567,HTTP Request - 1-1,200,OK,Thread Group 1-9,text,true,,132362,118,7,7,https://freshpack.com.bd/,1613,0,799
+1760538212876,2629,HTTP Request - 2,200,OK,Thread Group 1-7,text,true,,132683,240,8,8,https://freshpack.com.bd/,738,0,0
+1760538212876,738,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-7,text,true,,348,122,8,8,http://www.freshpack.com.bd/,738,0,0
+1760538213616,1889,HTTP Request - 2-1,200,OK,Thread Group 1-7,text,true,,132335,118,8,8,https://freshpack.com.bd/,1074,0,0
+1760538207389,8949,HTTP Request - 1,200,OK,Thread Group 1-8,text,true,,132737,240,7,7,https://freshpack.com.bd/,1454,0,330
+1760538207389,1454,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1454,0,330
+1760538208844,7494,HTTP Request - 1-1,200,OK,Thread Group 1-8,text,true,,132362,118,7,7,https://freshpack.com.bd/,4504,0,3377
+1760538211392,5057,HTTP Request - 1,200,OK,Thread Group 1-10,text,true,,132737,240,8,8,https://freshpack.com.bd/,1101,0,418
+1760538211392,1101,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1101,0,418
+1760538212493,3956,HTTP Request - 1-1,200,OK,Thread Group 1-10,text,true,,132362,118,8,8,https://freshpack.com.bd/,2801,0,1829
+1760538213381,3899,HTTP Request - 1,200,OK,Thread Group 1-11,text,true,,132737,240,8,8,https://freshpack.com.bd/,1355,0,376
+1760538213381,1355,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1355,0,376
+1760538214737,2543,HTTP Request - 1-1,200,OK,Thread Group 1-11,text,true,,132362,118,8,8,https://freshpack.com.bd/,1525,0,774
+1760538213974,3429,HTTP Request - 2,200,OK,Thread Group 1-9,text,true,,132683,240,8,8,https://freshpack.com.bd/,1122,0,0
+1760538213974,1122,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-9,text,true,,348,122,8,8,http://www.freshpack.com.bd/,1122,0,0
+1760538215096,2307,HTTP Request - 2-1,200,OK,Thread Group 1-9,text,true,,132335,118,8,8,https://freshpack.com.bd/,917,0,0
+1760538216452,3155,HTTP Request - 2,200,OK,Thread Group 1-10,text,true,,132683,240,8,8,https://freshpack.com.bd/,676,0,0
+1760538216452,676,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-10,text,true,,348,122,8,8,http://www.freshpack.com.bd/,676,0,0
+1760538217129,2478,HTTP Request - 2-1,200,OK,Thread Group 1-10,text,true,,132335,118,8,8,https://freshpack.com.bd/,1296,0,0
+1760538215383,4626,HTTP Request - 1,200,OK,Thread Group 1-12,text,true,,132737,240,7,7,https://freshpack.com.bd/,1139,0,426
+1760538215383,1139,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1139,0,426
+1760538216523,3486,HTTP Request - 1-1,200,OK,Thread Group 1-12,text,true,,132362,118,7,7,https://freshpack.com.bd/,2356,0,686
+1760538216340,4282,HTTP Request - 2,200,OK,Thread Group 1-8,text,true,,132710,240,8,8,https://freshpack.com.bd/,1035,0,390
+1760538216340,1035,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1035,0,390
+1760538217375,3247,HTTP Request - 2-1,200,OK,Thread Group 1-8,text,true,,132335,118,8,8,https://freshpack.com.bd/,1729,0,0
+1760538217281,4221,HTTP Request - 2,200,OK,Thread Group 1-11,text,true,,132683,240,7,7,https://freshpack.com.bd/,1431,0,0
+1760538217281,1431,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-11,text,true,,348,122,7,7,http://www.freshpack.com.bd/,1431,0,0
+1760538218712,2790,HTTP Request - 2-1,200,OK,Thread Group 1-11,text,true,,132335,118,7,7,https://freshpack.com.bd/,781,0,0
+1760538217385,4634,HTTP Request - 1,200,OK,Thread Group 1-13,text,true,,132737,240,6,6,https://freshpack.com.bd/,1799,0,351
+1760538217385,1799,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,122,6,6,http://www.freshpack.com.bd/,1799,0,351
+1760538219185,2834,HTTP Request - 1-1,200,OK,Thread Group 1-13,text,true,,132362,118,6,6,https://freshpack.com.bd/,1844,0,826
+1760538220010,2365,HTTP Request - 2,200,OK,Thread Group 1-12,text,true,,132683,240,6,6,https://freshpack.com.bd/,920,0,0
+1760538220010,920,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-12,text,true,,348,122,6,6,http://www.freshpack.com.bd/,920,0,0
+1760538220930,1445,HTTP Request - 2-1,200,OK,Thread Group 1-12,text,true,,132335,118,6,6,https://freshpack.com.bd/,772,0,0
+1760538222020,1718,HTTP Request - 2,200,OK,Thread Group 1-13,text,true,,132683,240,6,6,https://freshpack.com.bd/,654,0,0
+1760538222020,654,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-13,text,true,,348,122,6,6,http://www.freshpack.com.bd/,654,0,0
+1760538222674,1064,HTTP Request - 2-1,200,OK,Thread Group 1-13,text,true,,132335,118,6,6,https://freshpack.com.bd/,712,0,0
+1760538221393,3537,HTTP Request - 1,200,OK,Thread Group 1-15,text,true,,132737,240,6,6,https://freshpack.com.bd/,1069,0,334
+1760538221393,1069,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,122,6,6,http://www.freshpack.com.bd/,1069,0,334
+1760538222463,2467,HTTP Request - 1-1,200,OK,Thread Group 1-15,text,true,,132362,118,6,6,https://freshpack.com.bd/,1392,0,673
+1760538224930,4190,HTTP Request - 2,200,OK,Thread Group 1-15,text,true,,132683,240,8,8,https://freshpack.com.bd/,1832,0,0
+1760538224930,1832,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-15,text,true,,348,122,8,8,http://www.freshpack.com.bd/,1832,0,0
+1760538226763,2357,HTTP Request - 2-1,200,OK,Thread Group 1-15,text,true,,132335,118,8,8,https://freshpack.com.bd/,925,0,0
+1760538223381,6057,HTTP Request - 1,200,OK,Thread Group 1-16,text,true,,132737,240,7,7,https://freshpack.com.bd/,1015,0,357
+1760538223381,1015,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1015,0,357
+1760538224399,5039,HTTP Request - 1-1,200,OK,Thread Group 1-16,text,true,,132362,118,7,7,https://freshpack.com.bd/,1986,0,740
+1760538219382,12859,HTTP Request - 1,200,OK,Thread Group 1-14,text,true,,132737,240,8,8,https://freshpack.com.bd/,1237,0,415
+1760538219382,1237,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1237,0,415
+1760538220620,11621,HTTP Request - 1-1,200,OK,Thread Group 1-14,text,true,,132362,118,8,8,https://freshpack.com.bd/,1470,0,718
+1760538227381,5233,HTTP Request - 1,200,OK,Thread Group 1-18,text,true,,132737,240,9,9,https://freshpack.com.bd/,1941,0,335
+1760538227381,1941,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,122,9,9,http://www.freshpack.com.bd/,1941,0,335
+1760538229323,3291,HTTP Request - 1-1,200,OK,Thread Group 1-18,text,true,,132362,118,9,9,https://freshpack.com.bd/,2074,0,725
+1760538232241,1297,HTTP Request - 2,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: freshpack.com.bd:443 failed to respond,Thread Group 1-14,text,false,,2969,122,9,9,https://freshpack.com.bd/,1296,0,373
+1760538232241,1296,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,122,9,9,http://www.freshpack.com.bd/,1296,0,373
+1760538233536,2,HTTP Request - 2-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: freshpack.com.bd:443 failed to respond,Thread Group 1-14,text,false,,2594,0,9,9,https://freshpack.com.bd/,0,0,0
+1760538229398,4536,HTTP Request - 1,200,OK,Thread Group 1-19,text,true,,132737,240,8,8,https://freshpack.com.bd/,1671,0,406
+1760538229398,1671,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1671,0,406
+1760538231070,2864,HTTP Request - 1-1,200,OK,Thread Group 1-19,text,true,,132362,118,8,8,https://freshpack.com.bd/,1663,0,719
+1760538229439,4617,HTTP Request - 2,200,OK,Thread Group 1-16,text,true,,132710,240,8,8,https://freshpack.com.bd/,1750,0,366
+1760538229439,1750,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,122,8,8,http://www.freshpack.com.bd/,1750,0,366
+1760538231190,2866,HTTP Request - 2-1,200,OK,Thread Group 1-16,text,true,,132335,118,8,8,https://freshpack.com.bd/,704,0,0
+1760538225383,9069,HTTP Request - 1,200,OK,Thread Group 1-17,text,true,,132737,240,8,8,https://freshpack.com.bd/,2301,0,1380
+1760538225383,2301,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,122,8,8,http://www.freshpack.com.bd/,2301,0,1380
+1760538227685,6767,HTTP Request - 1-1,200,OK,Thread Group 1-17,text,true,,132362,118,8,8,https://freshpack.com.bd/,3568,0,2121
+1760538232615,2554,HTTP Request - 2,200,OK,Thread Group 1-18,text,true,,132683,240,8,8,https://freshpack.com.bd/,922,0,0
+1760538232615,922,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-18,text,true,,348,122,8,8,http://www.freshpack.com.bd/,922,0,0
+1760538233536,1633,HTTP Request - 2-1,200,OK,Thread Group 1-18,text,true,,132335,118,8,8,https://freshpack.com.bd/,915,0,0
+1760538231385,4800,HTTP Request - 1,200,OK,Thread Group 1-20,text,true,,132737,240,7,7,https://freshpack.com.bd/,1262,0,401
+1760538231385,1262,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1262,0,401
+1760538232648,3537,HTTP Request - 1-1,200,OK,Thread Group 1-20,text,true,,132362,118,7,7,https://freshpack.com.bd/,2546,0,1802
+1760538233934,2550,HTTP Request - 2,200,OK,Thread Group 1-19,text,true,,132683,240,8,8,https://freshpack.com.bd/,898,0,0
+1760538233934,898,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-19,text,true,,348,122,8,8,http://www.freshpack.com.bd/,898,0,0
+1760538234832,1652,HTTP Request - 2-1,200,OK,Thread Group 1-19,text,true,,132335,118,8,8,https://freshpack.com.bd/,977,0,0
+1760538233397,3811,HTTP Request - 1,200,OK,Thread Group 1-21,text,true,,132737,240,7,7,https://freshpack.com.bd/,1352,0,337
+1760538233397,1352,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1352,0,337
+1760538234750,2458,HTTP Request - 1-1,200,OK,Thread Group 1-21,text,true,,132362,118,7,7,https://freshpack.com.bd/,1459,0,655
+1760538236185,2438,HTTP Request - 2,200,OK,Thread Group 1-20,text,true,,132683,240,8,8,https://freshpack.com.bd/,820,0,0
+1760538236185,820,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-20,text,true,,348,122,8,8,http://www.freshpack.com.bd/,820,0,0
+1760538237006,1617,HTTP Request - 2-1,200,OK,Thread Group 1-20,text,true,,132335,118,8,8,https://freshpack.com.bd/,938,0,0
+1760538234451,4345,HTTP Request - 2,200,OK,Thread Group 1-17,text,true,,132710,240,7,7,https://freshpack.com.bd/,1258,0,379
+1760538234451,1258,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,122,7,7,http://www.freshpack.com.bd/,1258,0,379
+1760538235709,3087,HTTP Request - 2-1,200,OK,Thread Group 1-17,text,true,,132335,118,7,7,https://freshpack.com.bd/,1111,0,0
+1760538235393,4215,HTTP Request - 1,200,OK,Thread Group 1-22,text,true,,132737,240,6,6,https://freshpack.com.bd/,1312,0,353
+1760538235393,1312,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,122,6,6,http://www.freshpack.com.bd/,1312,0,353
+1760538236706,2902,HTTP Request - 1-1,200,OK,Thread Group 1-22,text,true,,132362,118,6,6,https://freshpack.com.bd/,1916,0,661
+1760538237210,2536,HTTP Request - 2,200,OK,Thread Group 1-21,text,true,,132683,240,6,6,https://freshpack.com.bd/,1125,0,0
+1760538237210,1125,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-21,text,true,,348,122,6,6,http://www.freshpack.com.bd/,1125,0,0
+1760538238335,1411,HTTP Request - 2-1,200,OK,Thread Group 1-21,text,true,,132335,118,6,6,https://freshpack.com.bd/,764,0,0
+1760538237378,3652,HTTP Request - 1,200,OK,Thread Group 1-23,text,true,,132737,240,5,5,https://freshpack.com.bd/,1266,0,333
+1760538237378,1266,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,122,5,5,http://www.freshpack.com.bd/,1266,0,333
+1760538238646,2384,HTTP Request - 1-1,200,OK,Thread Group 1-23,text,true,,132362,118,5,5,https://freshpack.com.bd/,1406,0,656
+1760538239611,2441,HTTP Request - 2,200,OK,Thread Group 1-22,text,true,,132683,240,5,5,https://freshpack.com.bd/,924,0,0
+1760538239611,924,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-22,text,true,,348,122,5,5,http://www.freshpack.com.bd/,924,0,0
+1760538240536,1516,HTTP Request - 2-1,200,OK,Thread Group 1-22,text,true,,132335,118,5,5,https://freshpack.com.bd/,844,0,0
+1760538239383,4197,HTTP Request - 1,200,OK,Thread Group 1-24,text,true,,132737,240,4,4,https://freshpack.com.bd/,1348,0,359
+1760538239383,1348,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,122,4,4,http://www.freshpack.com.bd/,1348,0,359
+1760538240732,2848,HTTP Request - 1-1,200,OK,Thread Group 1-24,text,true,,132362,118,4,4,https://freshpack.com.bd/,1686,0,704
+1760538241033,3346,HTTP Request - 2,200,OK,Thread Group 1-23,text,true,,132683,240,4,4,https://freshpack.com.bd/,667,0,0
+1760538241033,667,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-23,text,true,,348,122,4,4,http://www.freshpack.com.bd/,667,0,0
+1760538241700,2679,HTTP Request - 2-1,200,OK,Thread Group 1-23,text,true,,132335,118,4,4,https://freshpack.com.bd/,1109,0,0
+1760538241377,4367,HTTP Request - 1,200,OK,Thread Group 1-25,text,true,,132737,240,3,3,https://freshpack.com.bd/,1342,0,353
+1760538241377,1342,HTTP Request - 1-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,122,3,3,http://www.freshpack.com.bd/,1342,0,353
+1760538242720,3024,HTTP Request - 1-1,200,OK,Thread Group 1-25,text,true,,132362,118,3,3,https://freshpack.com.bd/,1782,0,847
+1760538245745,2316,HTTP Request - 2,200,OK,Thread Group 1-25,text,true,,132683,240,3,3,https://freshpack.com.bd/,679,0,0
+1760538245745,679,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-25,text,true,,348,122,3,3,http://www.freshpack.com.bd/,679,0,0
+1760538246424,1637,HTTP Request - 2-1,200,OK,Thread Group 1-25,text,true,,132335,118,3,3,https://freshpack.com.bd/,820,0,0
+1760538243581,5811,HTTP Request - 2,200,OK,Thread Group 1-24,text,true,,132683,240,2,2,https://freshpack.com.bd/,865,0,0
+1760538243581,865,HTTP Request - 2-0,301,Moved Permanently,Thread Group 1-24,text,true,,348,122,2,2,http://www.freshpack.com.bd/,865,0,0
+1760538244447,4945,HTTP Request - 2-1,200,OK,Thread Group 1-24,text,true,,132335,118,2,2,https://freshpack.com.bd/,860,0,0
+1760538202189,162962,HTTP Request - 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-2,text,false,,2777,0,1,1,http://www.freshpack.com.bd/,0,0,407
