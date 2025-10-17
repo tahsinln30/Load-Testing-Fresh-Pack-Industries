@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760710358717,185,Website - Fresh Pack Industries/generate_204-3,204,No Content,Thread Group 1-1,,true,,127,333,1,1,http://connectivitycheck.gstatic.com/generate_204,0,0,78
