@@ -1,0 +1,34 @@
+{
+  "Website - Fresh Pack Industries/generate_204-3" : {
+    "transaction" : "Website - Fresh Pack Industries/generate_204-3",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 185.0,
+    "medianResTime" : 185.0,
+    "minResTime" : 185.0,
+    "maxResTime" : 185.0,
+    "pct1ResTime" : 185.0,
+    "pct2ResTime" : 185.0,
+    "pct3ResTime" : 185.0,
+    "throughput" : 5.405405405405405,
+    "receivedKBytesPerSec" : 0.6703969594594594,
+    "sentKBytesPerSec" : 1.7578125
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 185.0,
+    "medianResTime" : 185.0,
+    "minResTime" : 185.0,
+    "maxResTime" : 185.0,
+    "pct1ResTime" : 185.0,
+    "pct2ResTime" : 185.0,
+    "pct3ResTime" : 185.0,
+    "throughput" : 5.405405405405405,
+    "receivedKBytesPerSec" : 0.6703969594594594,
+    "sentKBytesPerSec" : 1.7578125
+  }
+}
