@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760888702917,979,Login Page,200,OK,Thread Group 1-1,text,true,,5972,240,1,1,https://blazedemo.com/login,467,0,32
+1760888702917,467,Login Page-0,302,Found,Thread Group 1-1,text,true,,224,120,1,1,http://blazedemo.com/login,467,0,32
+1760888703385,511,Login Page-1,200,OK,Thread Group 1-1,text,true,,5748,120,1,1,https://blazedemo.com/login,510,0,117
+1760888703899,651,Registration Page,200,OK,Thread Group 1-1,text,true,,6567,246,1,1,https://blazedemo.com/register,283,0,0
+1760888703899,283,Registration Page-0,302,Found,Thread Group 1-1,text,true,,227,123,1,1,http://blazedemo.com/register,283,0,0
+1760888704182,368,Registration Page-1,200,OK,Thread Group 1-1,text,true,,6340,123,1,1,https://blazedemo.com/register,363,0,0
+1760888704550,625,Login Page,200,OK,Thread Group 1-1,text,true,,5978,240,1,1,https://blazedemo.com/login,269,0,0
+1760888704550,269,Login Page-0,302,Found,Thread Group 1-1,text,true,,224,120,1,1,http://blazedemo.com/login,269,0,0
+1760888704820,355,Login Page-1,200,OK,Thread Group 1-1,text,true,,5754,120,1,1,https://blazedemo.com/login,349,0,0
+1760888705175,629,Flight Booking Page,200,OK,Thread Group 1-1,text,true,,4976,230,1,1,https://blazedemo.com/,264,0,0
+1760888705175,264,Flight Booking Page-0,302,Found,Thread Group 1-1,text,true,,219,115,1,1,http://blazedemo.com/,264,0,0
+1760888705439,365,Flight Booking Page-1,200,OK,Thread Group 1-1,text,true,,4757,115,1,1,https://blazedemo.com/,362,0,0
